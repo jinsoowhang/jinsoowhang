@@ -6,7 +6,7 @@ I am a Data Analyst
 * 👀 - I'm interested in Data Analytics and Data Science
 * 🌱 - Currently learning about Dimensionality Reduction for Machine Learning
 
-Connect with me:
+## Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/jinsoo-whang/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
@@ -16,5 +16,9 @@ Connect with me:
   </a>
 </p>
 
-### Programming Languages
-Python, R, SQL
+## 🧰 Languages and Tools:
+Python, SQL
+
+## My Github Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoowhang&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoowhang&theme=tokyonight)
