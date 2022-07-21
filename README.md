@@ -17,7 +17,7 @@ I am a Data Analyst
 </p>
 
 ## 🧰 Languages and Tools:
-Python, SQL
+Python (Pandas, Matplotlib, Seaborn, Scikit-learn, PySpark), SQL, R, Tableau, DBT, Hadoop, AWS Redshift, BigQuery, Snowflake, Jupiter Notebook, Fivetran, Machine Learning, Deep Learning, MongoDB, Excel, Github.
 
 ## My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoowhang&show_icons=true&theme=tokyonight)
