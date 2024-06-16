@@ -2,9 +2,9 @@
 
 I am a Data Analyst
 
-* 📜 - Currently working on boosting my productivity by creating metrics and visualizations to track its performance
-* 👀 - I'm interested in Data Analytics and Data Science
-* 🌱 - Currently learning about Dimensionality Reduction for Machine Learning
+* 📜 - Currently working on a League of Legends ETL
+* 👀 - I'm interested in Data Analytics and Analytics Engineer
+* 🌱 - Currently learning about APIs, Airflow and Superset
 
 ## Connect with me:
 <p>
