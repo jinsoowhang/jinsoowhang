@@ -2,9 +2,9 @@
 
 I am a Data Analyst
 
-* 📜 - Currently working on a League of Legends ETL
+* 📜 - Currently working on tracking and visualizing my lifestyle
 * 👀 - I'm interested in Data Analytics and Analytics Engineer
-* 🌱 - Currently learning about APIs, Airflow and Superset
+* 🌱 - Currently learning about APIs, Airflow and Docker
 
 ## Connect with me:
 <p>
@@ -17,7 +17,7 @@ I am a Data Analyst
 </p>
 
 ## 🧰 Languages and Tools:
-Python (Pandas, Matplotlib, Seaborn, Scikit-learn, PySpark), SQL, R, Tableau, DBT, Hadoop, AWS Redshift, BigQuery, Snowflake, Jupiter Notebook, Fivetran, Machine Learning, Deep Learning, MongoDB, Excel, Github.
+Python, SQL, Tableau, Airflow, DBT, Docker, Snowflake, Streamlit, Jupiter Notebook, Git.
 
 ## My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoowhang&show_icons=true&theme=tokyonight)
