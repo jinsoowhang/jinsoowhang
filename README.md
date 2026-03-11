@@ -4,13 +4,13 @@ Building with AI
 
 ## Current Projects
 
-- ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer with real-time educational overlays (TypeScript, React, Supabase Realtime)
-- ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker comparing prices across reseller platforms (FastAPI, web scraping, Turso)
-- 📰 **[content-aggregator](https://github.com/jinsoowhang/content-aggregator)** — Personal feed reader aggregating YouTube, Reddit, and web news (FastAPI, SQLite) (private)
-- ⚙️ **[routine_tracker](https://github.com/jinsoowhang/routine_tracker)** — Dockerized ETL pipeline visualizing daily habits (Airflow, dbt, PostgreSQL, Streamlit)
-- 🎮 **[lol_etl](https://github.com/jinsoowhang/lol_etl)** — League of Legends match data pipeline and dashboard (Riot API, Streamlit)
-- 📊 **[runepath-analytics](https://github.com/jinsoowhang/runepath-analytics)** — Analytics dashboard for RunePath game server (Python)
-- 🕹️ **[python_text_game](https://github.com/jinsoowhang/python_text_game)** — Text-based soccer World Cup RPG (Python)
+- ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer (TypeScript, React, Supabase)
+- ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
+- 📰 **[content-aggregator](https://github.com/jinsoowhang/content-aggregator)** — Personal feed reader (FastAPI, SQLite) (private)
+- ⚙️ **[routine_tracker](https://github.com/jinsoowhang/routine_tracker)** — Daily habits ETL pipeline (Airflow, dbt, Streamlit)
+- 🎮 **[lol_etl](https://github.com/jinsoowhang/lol_etl)** — League of Legends data pipeline (Riot API, Streamlit)
+- 📊 **[runepath-analytics](https://github.com/jinsoowhang/runepath-analytics)** — Game server analytics dashboard (Python)
+- 🕹️ **[python_text_game](https://github.com/jinsoowhang/python_text_game)** — Text-based World Cup RPG (Python)
 
 ## Connect
 
