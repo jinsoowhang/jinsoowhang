@@ -4,6 +4,7 @@ Building with AI
 
 ## Current Projects
 
+- ⌚ **[apple-watch-health](https://github.com/jinsoowhang/apple-watch-health)** — Apple Watch health analytics dashboard (Next.js, Turso, Recharts)
 - ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer (TypeScript, React, Supabase)
 - 🃏 **[bridge-game-coach](https://github.com/jinsoowhang/bridge-game-coach)** — Interactive Bridge teaching app with AI coaching (TypeScript, React)
 - ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
