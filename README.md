@@ -4,6 +4,7 @@ Building with AI
 
 ## Current Projects
 
+- 🤖 **[claude-telegram-bot](https://github.com/jinsoowhang/claude-telegram-bot)** — Telegram bot wrapping Claude Code for mobile coding (Python, python-telegram-bot) 
 - ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
 - ⌚ **[apple-watch-health](https://github.com/jinsoowhang/apple-watch-health)** — Apple Watch health analytics dashboard (Next.js, Turso, Recharts)
 - ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer (TypeScript, React, Supabase)
@@ -12,7 +13,6 @@ Building with AI
 - ⚙️ **[routine_tracker](https://github.com/jinsoowhang/routine_tracker)** — Daily habits ETL pipeline (Airflow, dbt, Streamlit)
 - 🎮 **[lol_etl](https://github.com/jinsoowhang/lol_etl)** — League of Legends data pipeline (Riot API, Streamlit)
 - 📊 **[runepath-analytics](https://github.com/jinsoowhang/runepath-analytics)** — Game server analytics dashboard (Python)
-- 🤖 **[claude-telegram-bot](https://github.com/jinsoowhang/claude-telegram-bot)** — Telegram bot wrapping Claude Code for mobile coding (Python, python-telegram-bot) (private)
 - 🕹️ **[python_text_game](https://github.com/jinsoowhang/python_text_game)** — Text-based World Cup RPG (Python)
 
 ## Connect
