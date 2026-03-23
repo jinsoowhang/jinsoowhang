@@ -4,10 +4,10 @@ Building with AI
 
 ## Current Projects
 
+- ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
 - ⌚ **[apple-watch-health](https://github.com/jinsoowhang/apple-watch-health)** — Apple Watch health analytics dashboard (Next.js, Turso, Recharts)
 - ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer (TypeScript, React, Supabase)
 - 🃏 **[bridge-game-coach](https://github.com/jinsoowhang/bridge-game-coach)** — Interactive Bridge teaching app with AI coaching (TypeScript, React)
-- ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
 - 📰 **[content-aggregator](https://github.com/jinsoowhang/content-aggregator)** — Personal feed reader (FastAPI, SQLite) (private)
 - ⚙️ **[routine_tracker](https://github.com/jinsoowhang/routine_tracker)** — Daily habits ETL pipeline (Airflow, dbt, Streamlit)
 - 🎮 **[lol_etl](https://github.com/jinsoowhang/lol_etl)** — League of Legends data pipeline (Riot API, Streamlit)
