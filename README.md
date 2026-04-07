@@ -4,7 +4,7 @@ Building with AI
 
 ## Current Projects
 
-- 🌐 **[translator-chat-bot](https://github.com/jinsoowhang/translator-chat-bot)** — WhatsApp translator bot for multilingual family group chats (Python, Whapi.Cloud, Claude)
+- 🌐 **[translator-chat-bot](https://github.com/jinsoowhang/translator-chat-bot)** — Translator bot for WhatApp group chats (Python, Whapi.Cloud, Claude)
 - 🤖 **[claude-telegram-bot](https://github.com/jinsoowhang/claude-telegram-bot)** — Telegram bot wrapping Claude Code for mobile coding (Python, python-telegram-bot) 
 - ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
 - ⌚ **[apple-watch-health](https://github.com/jinsoowhang/apple-watch-health)** — Apple Watch health analytics dashboard (Next.js, Turso, Recharts)
