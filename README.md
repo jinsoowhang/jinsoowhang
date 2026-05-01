@@ -4,14 +4,14 @@ Building with AI
 
 ## Current Projects
 
-- 🌐 **[translator-chat-bot](https://github.com/jinsoowhang/translator-chat-bot)** — Translator bot for WhatApp group chats (Python, Whapi.Cloud, Claude)
-- 🤖 **[claude-telegram-bot](https://github.com/jinsoowhang/claude-telegram-bot)** — Telegram bot wrapping Claude Code for mobile coding (Python, python-telegram-bot)
 - 🛠️ **[skills](https://github.com/jinsoowhang/skills)** — Custom Claude Code skills (Markdown)
 - ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
-- ⌚ **[apple-watch-health](https://github.com/jinsoowhang/apple-watch-health)** — Apple Watch health analytics dashboard (Next.js, Turso, Recharts)
 - ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer (TypeScript, React, Supabase)
-- 🃏 **[bridge-game-coach](https://github.com/jinsoowhang/bridge-game-coach)** — Interactive Bridge teaching app with AI coaching (TypeScript, React)
 - 📰 **[content-aggregator](https://github.com/jinsoowhang/content-aggregator)** — Personal feed reader (FastAPI, SQLite) (private)
+- 🌐 **[translator-chat-bot](https://github.com/jinsoowhang/translator-chat-bot)** — Translator bot for WhatApp group chats (Python, Whapi.Cloud, Claude)
+- 🤖 **[claude-telegram-bot](https://github.com/jinsoowhang/claude-telegram-bot)** — Telegram bot wrapping Claude Code for mobile coding (Python, python-telegram-bot)
+- ⌚ **[apple-watch-health](https://github.com/jinsoowhang/apple-watch-health)** — Apple Watch health analytics dashboard (Next.js, Turso, Recharts)
+- 🃏 **[bridge-game-coach](https://github.com/jinsoowhang/bridge-game-coach)** — Interactive Bridge teaching app with AI coaching (TypeScript, React)
 - ⚙️ **[routine_tracker](https://github.com/jinsoowhang/routine_tracker)** — Daily habits ETL pipeline (Airflow, dbt, Streamlit)
 - 🎮 **[lol_etl](https://github.com/jinsoowhang/lol_etl)** — League of Legends data pipeline (Riot API, Streamlit)
 - 📊 **[runepath-analytics](https://github.com/jinsoowhang/runepath-analytics)** — Game server analytics dashboard (Python)
