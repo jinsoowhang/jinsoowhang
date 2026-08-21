@@ -8,7 +8,7 @@ Add `dofus-touch-economy-analytics` to the GitHub profile README's Current Proje
 
 Add one Markdown list item using the existing emoji, bold repository link, short description, and parenthesized technology-stack format:
 
-> 🥚 **[dofus-touch-economy-analytics](https://github.com/jinsoowhang/dofus-touch-economy-analytics)** — Dofus Touch economy analytics (Python, dbt, DuckDB)
+> - 🥚 **[dofus-touch-economy-analytics](https://github.com/jinsoowhang/dofus-touch-economy-analytics)** — Dofus Touch economy analytics (Python, dbt, DuckDB)
 
 Leave every existing project entry and its relative order unchanged.
 

@@ -5,6 +5,7 @@ Building with AI
 ## Current Projects
 
 - 🛠️ **[skills](https://github.com/jinsoowhang/skills)** — Custom Claude Code skills (Markdown)
+- 🥚 **[dofus-touch-economy-analytics](https://github.com/jinsoowhang/dofus-touch-economy-analytics)** — Dofus Touch economy analytics (Python, dbt, DuckDB)
 - ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
 - ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer (TypeScript, React, Supabase)
 - 📰 **[content-aggregator](https://github.com/jinsoowhang/content-aggregator)** — Personal feed reader (FastAPI, SQLite) (private)
