@@ -7,3 +7,6 @@
 - New entries use an emoji, bold repository link, concise description, and parenthesized technology stack.
 - The Dofus entry describes the implemented economy tracker and analytics platform
   and lists FastAPI, SQLite, BigQuery, and dbt as its primary stack.
+- `fc-clubs` is third, directly below Dofus, as of 2026-10-04. Its entry describes
+  FC27 Clubs match analytics with privacy filtering and tested performance models,
+  using Python, DuckDB, and dbt. Remaining entries retain their relative order.

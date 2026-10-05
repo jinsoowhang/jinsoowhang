@@ -6,6 +6,7 @@ Building with AI
 
 - 🛠️ **[skills](https://github.com/jinsoowhang/skills)** — Custom Claude Code skills (Markdown)
 - 🥚 **[dofus-touch-economy-analytics](https://github.com/jinsoowhang/dofus-touch-economy-analytics)** — Dofus Touch economy tracker and analytics platform (FastAPI, SQLite, BigQuery, dbt)
+- ⚽ **[fc-clubs](https://github.com/jinsoowhang/fc-clubs)** — FC27 Clubs match analytics with privacy filtering and tested performance models (Python, DuckDB, dbt)
 - ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
 - ♠️ **[poker-coach](https://github.com/jinsoowhang/poker-coach)** — Multiplayer Texas Hold'em trainer (TypeScript, React, Supabase)
 - 📰 **[content-aggregator](https://github.com/jinsoowhang/content-aggregator)** — Personal feed reader (FastAPI, SQLite) (private)
