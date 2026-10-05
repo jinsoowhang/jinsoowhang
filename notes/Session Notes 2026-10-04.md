@@ -21,3 +21,6 @@ skills remains first, Dofus second, and fc-clubs third, with no duplicate entry.
 The FC Clubs repository was created and verified public at
 `https://github.com/jinsoowhang/fc-clubs` before pushing the profile link. The ordering
 and single-insertion checks passed; staged diff checks passed as well.
+
+The profile push completed successfully. Verified the remote README matches the
+local file and lists FC Clubs exactly once as the third item, directly below Dofus.
