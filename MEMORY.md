@@ -10,3 +10,7 @@
 - `fc-clubs` is third, directly below Dofus, as of 2026-10-04. Its entry describes
   FC27 Clubs match analytics with privacy filtering and tested performance models,
   using Python, DuckDB, and dbt. Remaining entries retain their relative order.
+
+- `gym-workouts` is immediately after `fc-clubs`. Its entry describes a local A/B
+  workout logger with Obsidian saving and an analytics pipeline, using FastAPI,
+  SQLite, DuckDB, and dbt. Other project entries retain their relative order.
