@@ -5,7 +5,7 @@ Building with AI
 ## Current Projects
 
 - 🛠️ **[skills](https://github.com/jinsoowhang/skills)** — Custom Claude Code skills (Markdown)
-- 🥚 **[dofus-touch-economy-analytics](https://github.com/jinsoowhang/dofus-touch-economy-analytics)** — Dofus Touch economy tracker and analytics platform (FastAPI, SQLite, BigQuery, dbt)
+- 🥚 **[dofus-economy-analytics](https://github.com/jinsoowhang/dofus-economy-analytics)** — Dofus and Dofus Touch economy tracker and analytics platform (FastAPI, SQLite, BigQuery, dbt)
 - ⚽ **[fc-clubs](https://github.com/jinsoowhang/fc-clubs)** — FC27 Clubs match analytics with privacy filtering and tested performance models (Python, DuckDB, dbt)
 - 🏋️ **[gym-workouts](https://github.com/jinsoowhang/gym-workouts)** — Local A/B workout logger with Obsidian saving and an analytics pipeline (FastAPI, SQLite, DuckDB, dbt)
 - ⚽ **[world-cup-tickets](https://github.com/jinsoowhang/world-cup-tickets)** — FIFA 2026 ticket price tracker (FastAPI, Turso)
